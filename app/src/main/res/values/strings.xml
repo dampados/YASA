@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YASA</string>
+    <string name="play">Play</string>
+    <string name="GameScreen">GameScreen</string>
+    <string name="MenuScreen">MenuScreen</string>
+    <string name="title_activity_menu">Menu</string>
+</resources>

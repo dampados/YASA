@@ -1,0 +1,4 @@
+#Sat Mar 02 04:34:00 IRKT 2019
+base.0=C\:\\Users\\demde\\MEGA\\3sem\\3sem_CourseWork\\YASA\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
